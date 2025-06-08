@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "nickorwu",
   description: "nickorwu",
+  lang: 'zh-CN', // 默认语言
   base: '/vitepress/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
